@@ -16,4 +16,5 @@ All examples of scenes can be downloaded from the [release](https://github.com/t
 This files is a 3D models that can be used in [demo_3d_mesh.py](https://github.com/taichi-dev/taichi_elements/blob/58156f801a708b0689d19c6d8500016a90481dc9/demo/demo_3d_mesh.py) script.
 
 [Suzanne](https://github.com/taichi-dev/taichi_elements_blender_examples/releases/tag/suzanne_npy)
+
 [Bunny](https://github.com/taichi-dev/taichi_elements_blender_examples/releases/tag/bunny_npy)
